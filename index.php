@@ -16,7 +16,7 @@ $name="Dashboard";
     <div id="main-wrapper">
         <?php require 'parts/sidebar.php'; ?>
         <div class="page-wrapper">
-            <?php require 'parts/page-title.php'; ?>
+            <?php require 'parts/header.php'; ?>
             <div class="container p-4">
                 <div class="row bg-white box-shadow mx-auto">
                     <div class="card">
