@@ -45,6 +45,7 @@ to{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
 .left-sidebar{position:absolute;width:240px;height:100%;top:0;z-index:20;background:#fff;-webkit-box-shadow:1px 0 5px rgba(0,0,0,0.08);box-shadow:1px 0 5px rgba(0,0,0,0.08)}
 .fix-sidebar .left-sidebar{position:fixed}
 .scroll-sidebar{padding-bottom:60px}
+.collapse.in{display:block}
 .sidebar-nav{background:#fff;padding:0}
 .sidebar-nav ul{margin:0;padding:0}
 .sidebar-nav ul li{list-style:none}
@@ -120,4 +121,3 @@ tbody tr td{font-family:'Poppins',sans-serif;color:#99abb4}
 .box-shadow{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
 .main-div {margin: 30px auto;max-width: 35%;}
 .login-form{ text-align:center;}
-.collapse.in{display: block;}
