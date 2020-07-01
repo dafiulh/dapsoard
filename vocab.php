@@ -3,7 +3,7 @@ if (!isset($_COOKIE["login"])) {
     header("Location: login.php");
 }
 $parent="English";
-$name="Vocabulary";
+$name="Vocabularies";
 ?>
 
 <!DOCTYPE html>

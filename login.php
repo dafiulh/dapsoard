@@ -8,6 +8,7 @@ if (isset($_POST["submit"])) {
         header("Location: index.php");
     }
 }
+$name="Login";
 ?>
 <!DOCTYPE html>
 <html lang="en">
