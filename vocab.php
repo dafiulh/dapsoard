@@ -42,40 +42,6 @@ $name="Vocabularies";
                                 </tr>
                               </tbody>
                             </table>
-                            <blockquote>
-                                awake
-                                asleep
-                                probably
-                                opponent
-                                mate
-                                intention
-                                tent
-                                compliment
-                                envy
-                                refuse
-                                starving
-                                rid
-                                slippery
-                                rekt
-                                regular
-                                persists
-                                rub
-                                briskly
-                                swallow
-                                occurs
-                                moisture
-                                away
-                                serving
-                                fiber
-                                saturated
-                                fade
-                                persuade
-                                container
-                                main
-                                jumbled
-                                poor
-                                mess
-                        </blockquote>
                         </div>
                     </div>
                 </div>
