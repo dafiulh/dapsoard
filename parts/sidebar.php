@@ -1,6 +1,6 @@
 <div class="left-sidebar">
     <div class="navbar-header">
-        <a href="index.php" class="navbar-brand"><h3 class="mb-0 font-weight-bold">Dafiul Haq</h3></a>
+        <a href="index.php" class="navbar-brand"><h3 class="mb-0 font-weight-bold">Dapsoard</h3></a>
     </div>
     <div class="scroll-sidebar">
         <nav class="sidebar-nav">
