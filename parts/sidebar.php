@@ -12,7 +12,7 @@
                 <li class="nav-label">Skills</li>
                 <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-language"></i><span class="hide-menu">English</span></a>
                     <ul aria-expanded="false" class="collapse">
-                        <li><a href="vocab.php">Vocabularies</a></li>
+                        <li><a href="vocabularies.php">Vocabularies</a></li>
                         <li><a href="#">Exercise</a></li>
                     </ul>
                 </li>

@@ -9,11 +9,7 @@ $name="Vocabularies";
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    
-    <?php require 'parts/head-tags.php'; ?>
-    
-</head>
+<?php require 'parts/head.php'; ?>
 
 <body class="fix-header fix-sidebar">
     <?php require 'parts/preloader.php'; ?>
@@ -37,8 +33,13 @@ $name="Vocabularies";
                               <tbody>
                                 <tr>
                                   <th scope="row">1</th>
-                                  <td>Mark</td>
-                                  <td>Otto</td>
+                                  <td>Car</td>
+                                  <td>Mobil</td>
+                                </tr>
+                                <tr>
+                                  <th scope="row">1</th>
+                                  <td>Rumah</td>
+                                  <td>House</td>
                                 </tr>
                               </tbody>
                             </table>
@@ -50,7 +51,7 @@ $name="Vocabularies";
         </div>
     </div>
 
-    <?php require 'parts/foot-scripts.php'; ?>
+    <?php require 'parts/scripts.php'; ?>
     
 </body>
 

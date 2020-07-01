@@ -9,11 +9,7 @@ $name="Settings";
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    
-    <?php require 'parts/head-tags.php'; ?>
-    
-</head>
+<?php require 'parts/head.php'; ?>
 
 <body class="fix-header fix-sidebar">
     <?php require 'parts/preloader.php'; ?>
@@ -34,7 +30,7 @@ $name="Settings";
         </div>
     </div>
 
-    <?php require 'parts/foot-scripts.php'; ?>
+    <?php require 'parts/scripts.php'; ?>
     
 </body>
 

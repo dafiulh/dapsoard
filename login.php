@@ -18,11 +18,7 @@ $name="Login";
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    
-    <?php require 'parts/head-tags.php'; ?>
-    
-</head>
+<?php require 'parts/head.php'; ?>
 
 <body>
     <div class="preloader">
@@ -52,7 +48,7 @@ $name="Login";
         </div>
     </div>
 
-    <?php require 'parts/foot-scripts.php'; ?>
+    <?php require 'parts/scripts.php'; ?>
     
 </body>
     
